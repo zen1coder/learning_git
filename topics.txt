@@ -1,0 +1,7 @@
+Today I learnt
+
+pull ,fetch== merge,rebase
+
+reset --hard, reset --soft
+
+create branch
